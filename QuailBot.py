@@ -15,4 +15,4 @@ async def on_message(message):
     if message.content.startswith('!ping'):
         await quailBot.send_message(message.channel, 'Pong!')
 
-quailBot.run('MzQwNjYzMDQ3MDAzNTcwMTc5.DF1zXQ.lWRRq23UGeamfgQE34Uy2oyHL_c')
+quailBot.run('My Token')
