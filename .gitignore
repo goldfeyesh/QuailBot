@@ -1,1 +1,4 @@
 token.txt
+*.pyc
+searchAPIKey.txt
+googleImageSearch.py
